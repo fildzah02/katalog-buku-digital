@@ -44,14 +44,14 @@ Halaman Detail
 4. Cara Menjalankan Proyek
 
 1. Pastikan PHP, Composer, dan Laravel sudah terpasang.
-2. Clone repository GitHub:
+   Clone repository GitHub:
    `git clone URL_REPOSITORY`
-3. Masuk ke folder proyek:
+   Masuk ke folder proyek:
    `cd nama-proyek`
-4. Install dependency:
+   Install dependency:
    `composer install`
-5. Jalankan aplikasi:
+   Jalankan aplikasi:
    `php artisan serve`
-6. Buka browser dan akses:
+   Buka browser dan akses:
    `http://127.0.0.1:8000`
 
